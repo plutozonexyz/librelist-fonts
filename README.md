@@ -13,6 +13,8 @@ OFL - Liberation Fonts - Another set of Libre fonts designed to be compatible wi
 
 OFL - Linux Biolinum - A fancy serif font. - https://www.fontsquirrel.com/fonts/linux-biolinum
 
+OFL - Grenze Gotisch by Omnibus-Type - Gothic/medieval-style font https://github.com/Omnibus-Type/Grenze-Gotisch
+
 ### Don't like these fonts?
 You can try out FontForge, which is open source software for typeface creators. 
 
