@@ -11,8 +11,10 @@ GPL - GNU FreeFont - Libre fonts created by the GNU Project. - https://www.gnu.o
 
 OFL - Liberation Fonts - Another set of Libre fonts designed to be compatible with a small set of common Microsoft fonts. - https://github.com/liberationfonts/liberation-fonts
 
+SIL - Linux Biolinum - A fancy serif font. https://www.fontsquirrel.com/fonts/linux-biolinum
+
 ### Don't like these fonts?
-You can try out FontForge, which is open source software (GPL) for typeface creators. 
+You can try out FontForge, which is open source software for typeface creators. 
 
 Homepage: https://fontforge.org/en-US/
 
